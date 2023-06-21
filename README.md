@@ -7,8 +7,8 @@
 ## I'm a Dreamer and I work to make my dreams come true!!!
 - 🌱 I’m currently learning everything...
 - 👯 Ask me anything | I love to help.
-- 🥅 2022 Goals: Learn more about Machine Learning.
-- ⚡ Fun fact: I love to travel🛣️ | Bike Rideing🏍️
+- 🥅 2023 Goals: Smart Conract.
+- ⚡ Fun fact: I love to travel🛣️ | Bike Riding🏍️
 
 ### Connect with me:
 

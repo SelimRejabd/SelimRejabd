@@ -1,22 +1,92 @@
+<h1 align="center">👋 Hi, I'm Selim Reja</h1>
+<h3 align="center">💻 Full Stack Developer | MERN | Next.js | TypeScript</h3>
 
-# Hi there, I'm Selim 👋 
+---
 
+### 🧠 About Me  
+🚀 Passionate about building scalable web applications with clean architecture and modern tech stacks.  
+💡 I love exploring cutting-edge technologies like **Web3**, **Blockchain**, and **AI**.  
+🎯 Focused on writing **clean, efficient, and maintainable** code.  
+🌱 Currently learning: **Microservices, Smart Contracts, and Cloud Deployment**.  
+💬 Ask me about **React, Next.js, Express, MongoDB, TypeScript, or Web3**.  
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SelimRejabd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/selimrejabd)
+---
 
-## I'm a Dreamer and I work to make my dreams come true!!!
-- 🌱 I’m currently learning everything...
-- 👯 Ask me anything | I love to help.
-- ⚡ Fun fact: I love to travel🛣️ | Bike Riding🏍️
+### 🛠️ Tech Stack  
 
-### Connect with me:
+#### 🚀 Frontend  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]
+#### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
+#### ☁️ Tools & Others  
+![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📈 GitHub Analytics  
+
+<p align="center">
+  <a href="https://github.com/SalimReja">
+    <img src="https://github-readme-stats.vercel.app/api?username=SalimReja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalimReja&theme=tokyonight&hide_border=true" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SalimReja">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalimReja&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SalimReja&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/salimreja" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:salimreja.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://salimreja.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Facts  
+- 🌍 Based in Bangladesh 🇧🇩  
+- 🧩 Love solving complex problems  
+- 🎨 Enjoy crafting modern, responsive UI  
+- ⚡ Code + Coffee = Perfect Combo ☕  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SalimReja&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
+
+---
+
+⭐️ *“Code is like poetry — every line should have a purpose.”*  
